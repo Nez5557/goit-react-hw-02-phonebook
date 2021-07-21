@@ -5,7 +5,7 @@
   margin-top: 20px;
   min-width: 100px;
   height: 40px;
-  font-weight: 500;
+  font-weight: 700;
   background-color: rgb(238, 44, 228);
   color: #000;
 
@@ -18,11 +18,10 @@
   max-width: 182px;
   margin-left: auto;
   margin-right: auto;
-
   font-weight: 700;
   color: #000;
 }
 
 label:first-child {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
